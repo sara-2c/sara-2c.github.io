@@ -34,6 +34,11 @@
       ]
     },
     {
+      "name": "public health",
+      "keywords": [
+      ]
+    },
+    {
       "name": "web design",
       "keywords": [
       ]
@@ -72,9 +77,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Public Health || Computer Science (expected Spring, 2022)",
+      "studyType": "B.A. || minor",
+      "startDate": "2018",
       "endDate": "Present",
       "gpa": "",
       "courses": [
