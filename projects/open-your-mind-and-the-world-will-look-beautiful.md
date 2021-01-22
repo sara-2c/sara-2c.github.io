@@ -36,6 +36,13 @@ I wanted to create a video addressing this topic to analyze the underlying racis
 
 To encompass everything I learned, I end the video hoping to spread a new hashtag: #LoveToFilipinos
 
+
+
+## WHAT I LEARNED
+
+Along with having more experience working with different websites to create video projects, I have learned that opening your mind to different perspectives exercises your brain to think outside of the box. It is easy to become one-tracked, but sometimes, there can be multiple solutions to one problem. We just haven’t found all of them yet.
+
+
 Links to the video:
 
 
