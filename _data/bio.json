@@ -113,19 +113,6 @@
       ]
     }
   ],
-/*  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    }, */
     {
       "organization": "Pre-Medical Association",
       "website": "",
@@ -145,12 +132,6 @@
       "date": "2018-Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to incoming freshmen for high academic achievement."
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
