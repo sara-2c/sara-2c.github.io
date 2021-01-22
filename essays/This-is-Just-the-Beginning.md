@@ -25,6 +25,10 @@ When I say, “working out,” I mean working out the brain. Exercising intensel
 
 
 
+<img class="ui image" src="../images/brain-workout.png">
+
+
+
 ## HOPES
 
 I feel motivated to improve my coding skills. It will take a lot of hard work, effort, and time to get to where I want to be, but the best thing about this field is that there is no stagnation. It is continually evolving, and we all continually learn. Starting Javascript is just the beginning for me. 
@@ -32,4 +36,4 @@ I feel motivated to improve my coding skills. It will take a lot of hard work, e
 
 
 
-<img class="ui image" src="../images/javascript.jpg">
+
