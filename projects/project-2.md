@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/world.jpg
-title: Vacay
-permalink: projects/vacay
+title: Open Your Mind, and the World Will Look Beautiful
+permalink: projects/open-your-mind-and-the-world-will-look-beautiful
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-11
 labels:
@@ -16,11 +16,13 @@ summary: A video project to address the #CancelKorea debate and its underlying p
 
 <img class="ui medium right floated rounded image" src="../images/pi-culture.png">
 
+
 FORMING A NEW PERSPECTIVE
 
 One of the most interesting courses I took at UH Manoa is “Philippine Food & Pop Culture.” It might have been the most educationally enriching course I have ever taken. I am not Filipino, but I learned so much about the history and diversity of this culture that it has completely changed my perspective on it. I encourage everyone to take that class if they have not already.
 
 For this class, one of the concepts that I learned is that relationships, dynamics, and issues (such as racism, warfare, etc.) throughout history play a significant role in how countries, people, and things develop and interact in current societies. The colonization of the Philippines has created a warped sense of identity within its citizens and continued racism even within its subgroups of people. 
+
 
 
 BACKGROUND INFO FOR THE PROJECT
@@ -35,5 +37,9 @@ I wanted to create a video addressing this topic to analyze the underlying racis
 To encompass everything I learned, I end the video hoping to spread a new hashtag: #LoveToFilipinos
 
 Links to the video:
+
+
 Part 1: https://youtu.be/nBzvuZrBnn8 
+
+
 Part 2: https://youtu.be/ZgU2NVyOftc 
