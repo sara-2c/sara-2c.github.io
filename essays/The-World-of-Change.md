@@ -11,7 +11,7 @@ labels:
   - Interests
 ---
 
-<img class="ui tiny right spaced image" src="../images/tech-evol.jpg">
+<img class="ui image" src="../images/tech-evol.jpg">
 
 
 ## CURRENT INTERESTS
