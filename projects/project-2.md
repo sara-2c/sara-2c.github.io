@@ -1,25 +1,39 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/world.jpg
 title: Vacay
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-12-11
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Video Project
+  - Philippines
+  - Culture
+  - Education
+summary: A video project to address the #CancelKorea debate and its underlying problematic themes.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/pi-culture.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+FORMING A NEW PERSPECTIVE
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+One of the most interesting courses I took at UH Manoa is “Philippine Food & Pop Culture.” It might have been the most educationally enriching course I have ever taken. I am not Filipino, but I learned so much about the history and diversity of this culture that it has completely changed my perspective on it. I encourage everyone to take that class if they have not already.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+For this class, one of the concepts that I learned is that relationships, dynamics, and issues (such as racism, warfare, etc.) throughout history play a significant role in how countries, people, and things develop and interact in current societies. The colonization of the Philippines has created a warped sense of identity within its citizens and continued racism even within its subgroups of people. 
+
+
+BACKGROUND INFO FOR THE PROJECT
+
+In 2020, there were global Twitter fights between the Philippines and South Korea, spreading the hashtags, “#CancelKorea” and “#SorryToFilipinos.” One mistake of a Filipina individual on social media leads to some Koreans to attack and insult a whole nation of people. 
+
+
+MESSAGE OF THE VIDEO
+
+I wanted to create a video addressing this topic to analyze the underlying racism and hierarchy created in people’s heads. Citizens from higher-income countries are quick to judge those from lower-income countries, but I think we all forget sometimes how that came to be in the first place. The message of the video project is to share that we should be less judgmental towards others, more aware of how socio-economic issues affects a community, and learn our history to develop a more well-rounded mindset and understanding of other cultures. 
+
+To encompass everything I learned, I end the video hoping to spread a new hashtag: #LoveToFilipinos
+
+Links to the video:
+Part 1: https://youtu.be/nBzvuZrBnn8 
+Part 2: https://youtu.be/ZgU2NVyOftc 
