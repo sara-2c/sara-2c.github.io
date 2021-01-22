@@ -13,7 +13,7 @@ labels:
   - Social
   - Connections
   - Leadership
-summary: Taking on new responsibilities as a member in the Publications & Multimedia Committee. 
+summary: Taking on new responsibilities as a member in the Multimedia & Publications Committee. 
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/pma.jpg">
