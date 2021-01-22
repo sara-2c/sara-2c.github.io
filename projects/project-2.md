@@ -11,7 +11,7 @@ labels:
   - Philippines
   - Culture
   - Education
-summary: A video project to address the '#'CancelKorea debate and its underlying problematic themes.
+summary: A video project to address the "CancelKorea" debate and its underlying problematic themes.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/pi-culture.png">
