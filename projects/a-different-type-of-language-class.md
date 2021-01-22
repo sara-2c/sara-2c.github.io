@@ -13,10 +13,6 @@ labels:
 summary: My group developed a fun interactive game based on "The Avengers" series for our final project in ICS 111.
 ---
 
-<div class="ui images">
-  <img class="ui image" src="../images/endgame.png">
-</div>
-
 
 
 
@@ -43,7 +39,12 @@ Overall, we combined what we learned from class about polymorphism, functions, a
 As simple as we thought the concept was, it proved to be more difficult than expected as we were all new coders. This pushed my limits of what I thought I could do, and I learned that hard work can conduct change, but collaboration on projects like these can have pros and cons. It could not have been finished without all of us. It was one of the most stressful things I had to do, but it was so rewarding when we finally got everything ready to run, and we could finally play it.
 
 
+
 Watch a [run-through of our game](https://youtu.be/K8GA4yFBqSA)!
 
 
+
+<div class="ui images">
+  <img class="ui image" src="../images/endgame.png">
+</div>
 
