@@ -21,14 +21,14 @@ summary: Taking on new responsibilities as a member in the Publications & Multim
 
 ## PUBLIC HEALTH INVOLVEMENT
 
-Other than the computer science track, I am primarily and foremost a Public Health major. I believe both are extremely important in today’s world to make a change. Therefore, I am also involved in Pre-Health clubs such as the Pre-Medical Association (PMA) at UH Manoa. I have been an active member of PMA for two years, and in my first year, I was on the Publications & Multimedia Committee. In a sense, my project was yearlong. 
+Other than the computer science track, I am primarily and foremost a Public Health major. I believe both are extremely important in today’s world to make a change. Therefore, I am also involved in Pre-Health clubs such as the Pre-Medical Association (PMA) at UH Manoa. I have been an active member of PMA for two years, and in my first year, I was on the Multimedia & Publications Committee. In a sense, my project was yearlong. 
 
 
 
 
 ## DUTIES IN PMA
 
-The duties of being on the Publications & Multimedia Committee is to handle its social media pages, take pictures of the events, create videos for the PMA banquets, attend and offer ideas at meetings, and assist the Publications & Multimedia Chair on whatever it is. This required me to go to as many events as I could so that I could take pictures. The committee had other members help take pictures of events that we could not go to by implementing a system to give them points for taking meaningful photos. Videos and photos were all collected at the end, and I put together a video of the memories of our PMA members for the banquet. The responsibility was actually given to me extremely last minute, and I really only had a few hours beforehand to complete it. Luckily, I managed to finish it on time, and everyone enjoyed it!
+The duties of being on the Multimedia & Publications Committee is to handle its social media pages, take pictures of the events, create videos for the PMA banquets, attend and offer ideas at meetings, and assist the Multimedia & Publications Chair on whatever it is. This required me to go to as many events as I could so that I could take pictures. The committee had other members help take pictures of events that we could not go to by implementing a system to give them points for taking meaningful photos. Videos and photos were all collected at the end, and I put together a video of the memories of our PMA members for the banquet. The responsibility was actually given to me extremely last minute, and I really only had a few hours beforehand to complete it. Luckily, I managed to finish it on time, and everyone enjoyed it!
 
 
 
