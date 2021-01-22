@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/game-icon.jpg
 title: A Different Type of Language Class
 permalink: projects/a-different-type-of-language-class
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ summary: My group developed a fun interactive game based on "The Avengers" serie
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/endgame.png">
 </div>
 
 STORY BACKGROUND OF THE GAME
