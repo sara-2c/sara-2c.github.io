@@ -2,43 +2,35 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: A Different Type of Language Class
+permalink: projects/a-different-type-of-language-class
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-04-29
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Video Games
+  - Java
+  - Teamwork
+summary: My group developed a fun interactive game based on "The Avengers" series for our final project in ICS 111.
 ---
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+STORY BACKGROUND OF THE GAME
+In the Marvel Universe, the Avengers come together to fight the evil villain Thanos from taking over the world. However, in an unexpected turn of events, we are helping Thanos fend off heroes Thor, Captain America, and Iron Man. Thanos is powerful, but he’s not omnipotent. Three hits from any of them will finish him. Help maneuver Thanos so he will be able to succeed. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+PROCESS
+I was exposed to the world of computer science and coding in my first year of college. It was difficult, and I worked hard to understand and use Java. In my first ICS course, my groupmates and I worked together to code a game that would be fun and up-to-date with pop culture. The Avengers series was coming to an end and was probably at its peak of popularity. We chose to use that as our creative background for the game we made. 
 
-Here is some code that illustrates how we read values from the line sensors:
+We brainstormed ideas on what we might do and decided to make multiple classes in our game to have it inherit other subclasses. We split the work as evenly as we could. I created the function of Captain America falling from the top of the screen, helped to assign “lives” to Thanos, added in all the visual and audio elements, and since I was the last to look over it, I helped to check and edit. 
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+Overall, we combined what we learned from class about polymorphism, functions, and inheritance to write our code in Java using the Eclipse app. The objective of the game is written out more creatively in the “Story Background of the Game” above, but technically, it was just to use the “w,” “a,” “s,” “d” keys to maneuver the icon (Thanos) up, left, down, right, respectively, throughout the game to avoid touching the moving figures (Thor, Captain America, and Iron Man). The player only gets three tries before the game ends. 
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+WHAT I LEARNED
+As simple as we thought the concept was, it proved to be more difficult than expected as we were all new coders. This pushed my limits of what I thought I could do, and I learned that hard work can conduct change, but collaboration on projects like these can have pros and cons. It could not have been finished without all of us. It was one of the most stressful things I had to do, but it was so rewarding when we finally got everything ready to run, and we could finally play it.
+
+This is the link to a run-through of our game: (https://youtu.be/K8GA4yFBqSA).
 
 
 
