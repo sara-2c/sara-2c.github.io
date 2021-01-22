@@ -5,17 +5,23 @@ image: images/pma-logo.png
 title: My Other Path in Life
 permalink: projects/my-other-path-in-life
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-08-20
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Health
+  - Video
+  - Pictures
+  - Social
+  - Connections
+  - Leadership
+summary: Taking on new responsibilities as a member in the Publications & Multimedia Committee.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/pma.jpg">
+
 
 PUBLIC HEALTH INVOLVEMENT
-Other than the computer science track, I am primarily and foremost a Public Health major. I know that sounds strange, but I believe both are extremely important in today’s world to make a change. Therefore, I am also involved in Pre-Health clubs such as the Pre-Medical Association (PMA) at UH Manoa. I have been an active member of PMA for two years, and in my first year, I was on the Publications & Multimedia Committee. In a sense, my project was yearlong. 
+
+Other than the computer science track, I am primarily and foremost a Public Health major. I believe both are extremely important in today’s world to make a change. Therefore, I am also involved in Pre-Health clubs such as the Pre-Medical Association (PMA) at UH Manoa. I have been an active member of PMA for two years, and in my first year, I was on the Publications & Multimedia Committee. In a sense, my project was yearlong. 
 
 
 
@@ -27,6 +33,7 @@ The duties of being on the Publications & Multimedia Committee is to handle its 
 
 
 WHAT I GAINED FROM PMA
+
 I was able to expose myself to a plethora of professionals, careers, workshops, services in PMA. I also learned material that was outside the scope of public health. The best part of it is connecting to so many other students like me who support one another and push each other to grow. I would not have applied to be a part of the committee if I was not given the encouragement to do it. I was able to learn and practice leadership, cooperation, and time management during stressful times. 
 
 
