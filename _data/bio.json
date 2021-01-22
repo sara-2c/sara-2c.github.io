@@ -22,29 +22,29 @@
       },
       {
         "network": "linkedin",
-        "username": "saracheng2@gmail.com",
+        "username": "sara-2c",
         "url": "http://linkedin.com/in/sara-2c"
       }
     ]
   },
   "interests": [
     {
-      "name": "data analytics",
+      "name": "Data Analytics",
       "keywords": [
       ]
     },
     {
-      "name": "public health",
+      "name": "Public Health",
       "keywords": [
       ]
     },
     {
-      "name": "web design",
+      "name": "Web Design",
       "keywords": [
       ]
     },
     {
-      "name": "bioinformatics",
+      "name": "Bioinformatics",
       "keywords": [
       ]
     }
@@ -105,7 +105,20 @@
       "website": "",
       "startDate": "2020-01-30",
       "endDate": "Present",
-      "summary": "Front of House and managed drinks",
+      "summary": "Managed drinks and various Front of House duties",
+      "highlights": [
+        "Facilitate the bar/tables and customers’ orders",
+        "Count and record cash and inventory",
+        "Create and design new and current menu items"
+      ]
+    },
+    {
+      "company": "Tim Ho Wan",
+      "position": "Restaurant Hostess",
+      "website": "",
+      "startDate": "2020-01-30",
+      "endDate": "Present",
+      "summary": "Provided seating and service to customers",
       "highlights": [
         "Facilitate the bar/tables and customers’ orders",
         "Count and record cash and inventory",
@@ -117,13 +130,25 @@
     {
       "organization": "Pre-Medical Association",
       "website": "",
-      "position": "Publications and Multimedia Committee Member",
-      "startDate": "2019-08-20",
-      "endDate": "",
+      "position": "Multimedia and Publications Committee Member",
+      "startDate": "2019-09-15",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
         "Manage the club’s social media accounts",
         "Organize club photos into a slideshow for end-of-the-semester banquets"
+      ]
+    },
+    {
+      "organization": "International Business Organization",
+      "website": "",
+      "position": "Active Member",
+      "startDate": "2019-09-20",
+      "endDate": "2019-12-20",
+      "summary": "",
+      "highlights": [
+        "Attend international business-related workshops to develop financing skills",
+        "Network with business professionals to learn different organizational cultures"
       ]
     }
   ],
