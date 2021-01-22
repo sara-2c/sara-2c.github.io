@@ -43,4 +43,4 @@ To encompass everything I learned, I end the video hoping to spread a new hashta
 Along with having more experience working with different websites to create video projects, I have learned that opening your mind to different perspectives exercises your brain to think outside of the box. It is easy to become one-tracked, but sometimes, there can be multiple solutions to one problem. We just haven’t found all of them yet.
 
 
-Links to the [Part 1](https://youtu.be/nBzvuZrBnn8) and [Part 2](https://youtu.be/ZgU2NVyOftc) of the video!
+Links to [Part 1](https://youtu.be/nBzvuZrBnn8) and [Part 2](https://youtu.be/ZgU2NVyOftc) of the video!
