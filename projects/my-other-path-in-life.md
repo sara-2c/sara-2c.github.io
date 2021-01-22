@@ -5,7 +5,7 @@ image: images/pma-logo.png
 title: My Other Path in Life
 permalink: projects/my-other-path-in-life
 # All dates must be YYYY-MM-DD format!
-date: 2019-08-20
+date: 2019-09-15
 labels:
   - Health
   - Video
