@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/pma-logo.png
+title: My Other Path in Life
+permalink: projects/my-other-path-in-life
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
@@ -14,48 +14,19 @@ summary: A text adventure game I developed for ICS 313.
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+PUBLIC HEALTH INVOLVEMENT
+Other than the computer science track, I am primarily and foremost a Public Health major. I know that sounds strange, but I believe both are extremely important in today’s world to make a change. Therefore, I am also involved in Pre-Health clubs such as the Pre-Medical Association (PMA) at UH Manoa. I have been an active member of PMA for two years, and in my first year, I was on the Publications & Multimedia Committee. In a sense, my project was yearlong. 
 
-To give you a flavor of the game, here is an excerpt from one run:
 
-<hr>
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+DUTIES IN PMA
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+The duties of being on the Publications & Multimedia Committee is to handle its social media pages, take pictures of the events, create videos for the PMA banquets, attend and offer ideas at meetings, and assist the Publications & Multimedia Chair on whatever it is. This required me to go to as many events as I could so that I could take pictures. The committee had other members help take pictures of events that we could not go to by implementing a system to give them points for taking meaningful photos. Videos and photos were all collected at the end, and I put together a video of the memories of our PMA members for the banquet. The responsibility was actually given to me extremely last minute, and I really only had a few hours beforehand to complete it. Luckily, I managed to finish it on time, and everyone enjoyed it!
 
-pickup candle
-- you are now carrying the candle -
 
-pickup match
-- you are now carrying the match -
 
-light match candle
+WHAT I GAINED FROM PMA
+I was able to expose myself to a plethora of professionals, careers, workshops, services in PMA. I also learned material that was outside the scope of public health. The best part of it is connecting to so many other students like me who support one another and push each other to grow. I would not have applied to be a part of the committee if I was not given the encouragement to do it. I was able to learn and practice leadership, cooperation, and time management during stressful times. 
 
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
