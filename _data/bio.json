@@ -113,6 +113,8 @@
       ]
     }
   ],
+  "activities": [
+    {
       "organization": "Pre-Medical Association",
       "website": "",
       "position": "Publications and Multimedia Committee Member",
@@ -130,7 +132,7 @@
       "title": "New Warrior Provost Achievement (Chancellor’s) Scholarship Recipient",
       "date": "2018-Present",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Scholarships awarded to incoming freshmen for high academic achievement."
+      "summary": "Scholarship awarded to incoming freshmen for high academic achievement."
     }
   ],
   "references": [
