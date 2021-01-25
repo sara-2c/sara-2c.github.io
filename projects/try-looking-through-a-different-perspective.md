@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/world.jpg
+image: images/world-perspective.jpg
 title: Try Looking Through a Different Perspective
 permalink: projects/try-looking-through-a-different-perspective
 # All dates must be YYYY-MM-DD format!
