@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pma-logo.png
+image: images/heart.png
 title: My Other Path in Life
 permalink: projects/my-other-path-in-life
 # All dates must be YYYY-MM-DD format!
