@@ -11,7 +11,6 @@ labels:
   - Interests
 ---
 
-<img class="ui image" src="../images/tech-evol.jpg">
 
 
 ## CURRENT INTERESTS
@@ -28,3 +27,10 @@ Frankly speaking, I hope to learn how to code faster and better. I want to be ab
 
 
 Computer science is not a stagnant field. It will continue to evolve, and I want to be a part of the change.
+
+
+
+
+
+<img class="ui image" src="../images/evolution-of-mind.jpg">
+
