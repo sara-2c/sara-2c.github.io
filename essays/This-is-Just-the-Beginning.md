@@ -25,7 +25,7 @@ When I say, “working out,” I mean working out the brain. Exercising intensel
 
 
 
-<img class="ui image" src="../images/brain-workout.png">
+<img class="ui image" src="../images/workout-brain.png">
 
 
 
