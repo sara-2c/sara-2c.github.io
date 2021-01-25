@@ -18,6 +18,7 @@ summary: Taking on new responsibilities as a member in the Multimedia & Publicat
 
 <img class="ui image" src="{{ site.baseurl }}/images/pma.jpg">
 
+(Image above is a picture I took of a PMA event)
 
 ## PUBLIC HEALTH INVOLVEMENT
 
