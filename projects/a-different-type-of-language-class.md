@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/game-over.png
+image: images/press-start.png
 title: A Different Type of Language Class
 permalink: projects/a-different-type-of-language-class
 # All dates must be YYYY-MM-DD format!
