@@ -37,7 +37,7 @@ I wanted to create a video addressing this topic to analyze the underlying racis
 To encompass everything I learned, I end the video hoping to spread a new hashtag: #LoveToFilipinos
 
 
-<img class="ui image" src="../images/perspective-glasses.jpg">
+<img class="ui medium right rounded image" src="../images/perspective-glasses.jpg">
 
 ## WHAT I LEARNED
 
