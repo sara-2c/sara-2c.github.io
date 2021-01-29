@@ -49,7 +49,7 @@ Asking stupid questions can inhibit learning, whereas asking smart questions can
 
 
 
-
+ 
 
 
 <img class="ui image" src="../images/evolution-of-mind.jpg">
