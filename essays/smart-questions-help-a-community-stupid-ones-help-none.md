@@ -17,11 +17,14 @@ labels:
 ## How Can We Learn?
 I think as many of us have been taught before, one of the best ways to learn is to ask questions. However, learning cannot be substituted with being mindlessly spoon-fed answers and facts. Humans master ideas, concepts, and techniques better when they explore these things themselves. The internet holds a lot of information, and simple questions can usually be solved by a quick search. If for some reason, we hit a wall that cannot be breached, then the inquiries and discussions begin. Yet, we still must be mindful of how we can ask questions the smart way. 
 
+
+<img class="ui image" src="../images/tree-diagram.png">
+
 ## The Apple Doesn’t Fall Far From the Tree
-What analogy am I trying to create? An answer is only as good as its question. Asking a broad, general question will likely render a broad, general answer, possibly no answer at all because there’s not enough detail for anyone to care. In contrast, providing a descriptive explanation of attempts and failures clarifies the problem to give much more helpful feedback. 
+A good tree will produce a good apple; a bad tree will produce bad apples or none. What analogy am I trying to create? An answer is only as good as its question. Asking a broad, general question will likely render a broad, general answer, possibly no answer at all because there’s not enough detail for anyone to care. In contrast, providing a descriptive explanation of attempts and failures clarifies the problem to give much more helpful feedback. 
 
 ## What is a Stupid Question?
-As a disclaimer, I don’t particularly like the idea of calling any question “stupid,” but for the sake of this topic and in honor of Eric Raymond’s [“How To Ask Questions The Smart Way,”](http://www.catb.org/esr/faqs/smart-questions.html#stackoverflow) I will be analyzing the difference between “stupid” and “smart” questions. 
+As a disclaimer, I don’t particularly like the idea of calling any question “stupid,” but for the sake of this topic and in honor of Eric Raymond’s [“How To Ask Questions The Smart Way,”](http://www.catb.org/esr/faqs/smart-questions.html) I will be analyzing the difference between “stupid” and “smart” questions. 
 
 
 [This link should provide a page on Stack Overflow of a stupid question.](https://stackoverflow.com/questions/65948035/when-i-go-run-error-but-cannot-find-package)
@@ -49,7 +52,5 @@ Asking stupid questions can inhibit learning, whereas asking smart questions can
 
 
 
- 
 
 
-<img class="ui image" src="../images/evolution-of-mind.jpg">
