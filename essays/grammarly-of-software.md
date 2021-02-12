@@ -14,7 +14,7 @@ labels:
 ---
 
 
-## = vs == vs ===
+## More Like a Spellcheck?
 
 I would say many people would be able to find a commonality between coding standards in software engineering and spelling and grammar in essays. As annoying as checking spelling and grammar may be, writers must adapt to the standards of writing for others to understand what they mean. For example, “to,” “too,” and “two” are homophones but all have different meanings; likewise, “=,” “==,” “===” all consist of the equal sign but cannot be used interchangeably in JavaScript. Coding standards can be meticulous and troublesome, but it is still completely necessary and helpful for coders.
 
