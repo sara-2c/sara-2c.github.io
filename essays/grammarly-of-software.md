@@ -14,9 +14,11 @@ labels:
 ---
 
 
-## GRAMMARLY OF SOFTWARE
+## = vs == vs ===
 
 I would say many people would be able to find a commonality between coding standards in software engineering and spelling and grammar in essays. As annoying as checking spelling and grammar may be, writers must adapt to the standards of writing for others to understand what they mean. For example, “to,” “too,” and “two” are homophones but all have different meanings; likewise, “=,” “==,” “===” all consist of the equal sign but cannot be used interchangeably in JavaScript. Coding standards can be meticulous and troublesome, but it is still completely necessary and helpful for coders.
+
+## What Do Coding Standards Do For You?
 
 However, I like to take it a step further in this analogy. Coding style checkers, such as Checkstyle for Java or ESLint for JavaScript, improve the aesthetics and overall coding. If I were to explain it to a beginning coder, I would say that it’s more like [Grammarly](https://www.grammarly.com/)––probably the most advertised and popular writing tool amongst e-users. Not only does Grammarly find common spelling and grammar mistakes, but it also condenses word usage, improves vocabulary, and polishes overall content (Disclaimer: I’m not a sponsor for Grammarly). This is the same thing that coding standards do for software languages; it fixes the overall quality of the code. 
 
