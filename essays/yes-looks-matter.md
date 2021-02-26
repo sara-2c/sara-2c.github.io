@@ -15,7 +15,7 @@ labels:
 ---
 
 
-<img class="ui medium left floated rounded image" src="model.jpg">
+<img class="ui medium left floated rounded image" src="../images/model.jpg">
 
 I’ve always had a penchant for pretty things. I read books based on their covers, wear intricate clothing that isn’t always practical, buy household items for their cute designs rather than their functionality. It’s not the best habit to have, but I know that I’m not the only one who does this. Teens nowadays go to boba shops because they have nice interior designs or well-established Instagram pages, not for the quality of the drink. Most industries use beautiful models to sell their products (like the one to the left). It’s the same when internet users wander onto a poorly developed website and instantly closes the window. Looks matter in this society, unfortunately.
 
